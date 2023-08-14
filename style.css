@@ -1,0 +1,115 @@
+.bodey{
+    background-color: white;
+}
+
+.container{
+    width: 1500px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header{
+    padding: 10px 0px;
+    box-shadow: 0px 5px 15px #534f4f;
+}
+
+.header_logo{
+    width: 100px;
+    height: auto;
+    margin-right: 100px;
+}
+    
+.header_nav{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.header_nav a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 15px;
+}
+
+.header_nav a:hover{
+    color: blue;
+}
+
+.header_btn{
+    margin-left: 100px;
+    margin-top: 15px;
+    width: 300px;
+}
+
+.header_btn a{
+    margin: 10px 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 20px 150x;
+    border-radius: 5px;
+}
+
+.header_btn_one{
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.header_btn_one:hover{
+    color: black;
+    background-color: #b5aeae;
+}
+
+.heade_btn_two{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    padding: 5px 5px;
+}
+
+.heade_btn_two:hover{
+    background-color: #cdd5e1;
+}
+
+.trainer{
+    background-color: #910eb1;
+}
+
+.title{
+    margin: 70px;
+    margin-top: 100px;
+}
+
+.title_one{
+    width: 70%;
+    padding: 10px;
+}
+
+.title_one h1{
+    font-size: 50px;
+}
+
+.title_two{
+    width: 70%;
+}
+
+.row_two{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h3{
+    width: 30%;
+}
+
+.naresh{
+    margin-left: 200px;
+}
+
+.bg_color{
+    background-color: #b3c5d3;
+}
